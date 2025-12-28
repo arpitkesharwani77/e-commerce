@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from "react";
 import ShopContext from "../context/shop-context";
-import Title from "./title";
+import Title from "./Title";
 import ProductItem from "./ProductItem";
 
 const BestSeller = () => {
